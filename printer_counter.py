@@ -25,7 +25,7 @@ login_data = {
     'i0012': '1',
     'i0017': '2',
     'i0019': '',
-    'i2101': '7654321'
+    'i2101': 'your_remote_ui_password'
 }
 
 # Counter URL and Info URL
